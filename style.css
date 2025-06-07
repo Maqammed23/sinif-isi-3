@@ -9,6 +9,7 @@ ul{
     overflow: auto; 
     padding: 10px;
     list-style-type: none;
+    float: right;
 }
 a{
     color: white;
@@ -16,4 +17,31 @@ a{
 li{
     float: left;
     margin-left: 30px;
+    
+}
+#s{
+    float: left;
+    font-size: 30px;
+}
+#d{
+    margin-top: 40px;
+    text-align: center;
+    background-color: blue;
+    width: 30vw;
+    height: 30vh;
+    color: white;
+    
+}
+.a{
+    float: left;
+}
+#g{
+    float: left;
+    width: 30vw;
+}
+#b{
+    float: left;
+}
+.x{
+    
 }
